@@ -1,0 +1,3 @@
+Texto plano de practica para pruebas del protocolo
+con multiples lineas
+muchas. 
